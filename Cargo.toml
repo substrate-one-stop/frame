@@ -3,4 +3,5 @@
 members = [
     "alliance",
     "assets",
+    "atomic-swap",
 ]
