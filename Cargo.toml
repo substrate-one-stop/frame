@@ -4,4 +4,7 @@ members = [
     "alliance",
     "assets",
     "atomic-swap",
+    "bags-list",
+    "bags-list/remote-tests",
+    "bags-list/fuzzer",
 ]
