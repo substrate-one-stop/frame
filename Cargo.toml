@@ -7,4 +7,5 @@ members = [
     "bags-list",
     "bags-list/remote-tests",
     "bags-list/fuzzer",
+    "bounties",
 ]
