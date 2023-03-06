@@ -9,4 +9,5 @@ members = [
     "bags-list/fuzzer",
     "bounties",
     "child-bounties",
+    "collective",
 ]
