@@ -17,4 +17,5 @@ members = [
     "fast-unstake",
     "glutton",
     "identity",
+    "indices",
 ]
