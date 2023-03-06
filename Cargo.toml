@@ -12,4 +12,6 @@ members = [
     "collective",
     "conviction-voting",
     "democracy",
+    "examples/basic",
+    "examples/offchain-worker",
 ]
