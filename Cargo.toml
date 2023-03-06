@@ -14,4 +14,5 @@ members = [
     "democracy",
     "examples/basic",
     "examples/offchain-worker",
+    "fast-unstake",
 ]
