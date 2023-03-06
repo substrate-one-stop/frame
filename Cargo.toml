@@ -11,4 +11,5 @@ members = [
     "child-bounties",
     "collective",
     "conviction-voting",
+    "democracy",
 ]
