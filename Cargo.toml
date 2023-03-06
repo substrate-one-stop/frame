@@ -18,4 +18,5 @@ members = [
     "glutton",
     "identity",
     "indices",
+    "insecure-randomness-collective-flip",
 ]
