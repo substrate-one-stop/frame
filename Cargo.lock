@@ -3766,7 +3766,7 @@ dependencies = [
  "log",
  "pallet-balances",
  "pallet-collective 4.0.0-dev (git+https://github.com/paritytech/substrate.git?rev=b7e0518966)",
- "pallet-identity",
+ "pallet-identity 4.0.0-dev (git+https://github.com/paritytech/substrate.git?rev=b7e0518966)",
  "parity-scale-codec",
  "scale-info",
  "sha2 0.10.6",
@@ -4059,6 +4059,23 @@ dependencies = [
  "frame-support",
  "frame-system",
  "log",
+ "pallet-balances",
+ "parity-scale-codec",
+ "scale-info",
+ "sp-core",
+ "sp-io",
+ "sp-runtime",
+ "sp-std",
+]
+
+[[package]]
+name = "pallet-identity"
+version = "4.0.0-dev"
+dependencies = [
+ "enumflags2",
+ "frame-benchmarking",
+ "frame-support",
+ "frame-system",
  "pallet-balances",
  "parity-scale-codec",
  "scale-info",

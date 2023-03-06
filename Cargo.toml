@@ -16,4 +16,5 @@ members = [
     "examples/offchain-worker",
     "fast-unstake",
     "glutton",
+    "identity",
 ]
