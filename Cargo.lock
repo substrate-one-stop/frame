@@ -4312,6 +4312,21 @@ dependencies = [
 ]
 
 [[package]]
+name = "pallet-nicks"
+version = "4.0.0-dev"
+dependencies = [
+ "frame-support",
+ "frame-system",
+ "pallet-balances",
+ "parity-scale-codec",
+ "scale-info",
+ "sp-core",
+ "sp-io",
+ "sp-runtime",
+ "sp-std",
+]
+
+[[package]]
 name = "pallet-preimage"
 version = "4.0.0-dev"
 source = "git+https://github.com/paritytech/substrate.git?rev=b7e0518966#b7e0518966b145f22c16137da5c9796fcdb43b73"
