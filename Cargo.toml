@@ -20,4 +20,5 @@ members = [
     "indices",
     "insecure-randomness-collective-flip",
     "lottery",
+    "membership",
 ]
