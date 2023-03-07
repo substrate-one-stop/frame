@@ -25,4 +25,5 @@ members = [
     "nfts",
     "nfts/runtime-api",
     "nicks",
+    "nis",
 ]
