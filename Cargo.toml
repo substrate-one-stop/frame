@@ -21,4 +21,5 @@ members = [
     "insecure-randomness-collective-flip",
     "lottery",
     "membership",
+    "multisig",
 ]
