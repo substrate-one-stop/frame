@@ -22,4 +22,6 @@ members = [
     "lottery",
     "membership",
     "multisig",
+    "nfts",
+    "nfts/runtime-api",
 ]
